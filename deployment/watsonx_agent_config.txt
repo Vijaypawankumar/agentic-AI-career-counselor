@@ -1,0 +1,5 @@
+Agent Name: AgenticCareerBot
+Agent Type: Career Counseling Assistant
+Description: An intelligent agent that guides students by asking key questions and suggesting personalized career paths.
+Granite Model Used: granite-13b-chat-v2
+LangChain Architecture: ReAct + LangGraph
