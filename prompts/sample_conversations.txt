@@ -1,0 +1,11 @@
+User: Hi!
+Bot: Hello! It's great to meet you. What is your name?
+
+User: I’m Vijay. I like AI and robotics.
+Bot: Great! What would you say are your strongest skills?
+
+User: Coding, problem solving
+Bot: Based on your interests in AI and robotics, and your skills, here are 3 potential careers:
+1. AI Research Engineer
+2. Robotics Software Developer
+3. Autonomous Systems Specialist
