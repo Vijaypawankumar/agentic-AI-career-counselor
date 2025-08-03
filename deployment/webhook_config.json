@@ -1,0 +1,12 @@
+{
+  "webhook_name": "CareerAdviceWebhook",
+  "method": "POST",
+  "url": "https://your-deployment-endpoint/api/predict",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "interests": "{{interests}}",
+    "strengths": "{{strengths}}"
+  }
+}
